@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3AF7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Roswel+Almeida;Data+Analyst+%7C+Aspiring+Data+Scientist;9+Years+in+Retail+%26+FMCG+%F0%9F%9B%92;Turning+Messy+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+scikit-learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3AF7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rosewal+Almeida;Data+Analyst+%7C+Aspiring+Data+Scientist;9+Years+in+Retail+%26+FMCG+%F0%9F%9B%92;Turning+Messy+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+scikit-learn" alt="Typing SVG" />
 
 </div>
 
