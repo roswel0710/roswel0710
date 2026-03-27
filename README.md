@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3AF7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rosewal+Almeida;Data+Analyst+%7C+Aspiring+Data+Scientist;9+Years+in+Retail+%26+FMCG+%F0%9F%9B%92;Turning+Messy+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+scikit-learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3AF7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rosewal+Almeida;Aspiring+Data+Scientist;9+Years+in+Retail+%26+FMCG+%F0%9F%9B%92;Turning+Messy+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+scikit-learn" alt="Typing SVG" />
 
 </div>
 
@@ -31,9 +31,10 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=roswel0710&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roswel0710&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roswel0710&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roswel0710&theme=github_dark" alt="Profile Details" /><br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=roswel0710&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roswel0710&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roswel0710&theme=github_dark" alt="Stats" />
 
 </div>
 
