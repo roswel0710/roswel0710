@@ -9,7 +9,6 @@
 # 💫 About Me:
 👋 Hi, I'm Rosewal Almeida<br>I clean dirty data, break assumptions with hypothesis tests, and build models that predict what happens next.<br><br>🔭 I'm currently working on the **DataCamp Associate Data Scientist certification**<br>👯 I'm looking to collaborate on **retail analytics & data science projects**<br>🤝 I'm looking for help with **breaking into the data science community**<br>🌱 I'm currently learning **supervised learning, scikit-learn pipelines & experimental design**<br>💬 Ask me about **retail ops, trade marketing, or Power BI dashboards**<br>⚡ Fun fact **9 years on shop floors & trade routes — now I let Python do the heavy lifting**
 
-🎯 **Goal:** Become a Data Scientist
 
 ---
 
